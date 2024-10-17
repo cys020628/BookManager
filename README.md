@@ -45,7 +45,7 @@ View
 - 콘솔을 통해 입력과 출력을 처리합니다.
 
 Util
-- Logger
+- 
 
 Main
 - Main
